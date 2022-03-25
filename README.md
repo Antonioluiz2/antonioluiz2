@@ -26,7 +26,7 @@ Estou aprendendo no momento Kotlin e muitas outras coisas de Tecnologia
   <img align="center" alt="Luiz-CSS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/heroku/heroku-original-wordmark.svg" />
   
 </div>
-  <h2>Contado</h2>
+  <h2>Contato</h2>
   <div>
 
   
