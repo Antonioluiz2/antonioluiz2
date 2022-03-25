@@ -1,6 +1,6 @@
 ### Hi there 👋 I'm AntonioLuiz2
 
-Here are some ideas to get you started:
+
 Desenvolvedor de back-end, amante de Java e Node, fã Spring Boot e Kotlin, curioso em desempenho. Atualmente apaixonado por flutter e Programação Reativa.
 
 Estou aprendendo no momento Kotlin e muitas outras coisas de Tecnologia
