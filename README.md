@@ -1,7 +1,5 @@
 ### Hi there 👋 I'm AntonioLuiz2
 
-**Antonioluiz2/antonioluiz2** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 Here are some ideas to get you started:
 Desenvolvedor de back-end, amante de Java e Node, fã Spring Boot e Kotlin, curioso em desempenho. Atualmente apaixonado por flutter e Programação Reativa.
 
