@@ -33,6 +33,7 @@ Here are some ideas to get you started:
   <img align="center" alt="Luiz-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Luiz-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Luiz-CSS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain.svg" />
+  <img align="center" alt="Luiz-CSS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/heroku/heroku-original-wordmark.svg" />
   
 </div>
   <h2>Contado</h2>
@@ -41,4 +42,4 @@ Here are some ideas to get you started:
   
   <a href="https://www.linkedin.com/in/antonio-luiz-8a873799" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
 </div>
-< a href="https://github-readme-stats.vercel.app/api/top-langs/?username=antonioluiz2&theme=blue-green"></a>
+
