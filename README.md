@@ -15,12 +15,13 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 ##
+<h2>⚡ GitHub Stats</h2>
 <div>
   <a href="https://beacons.ai/Antonioluiz2">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=antonioluiz2&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=antonioluiz2&layout=compact&langs_count=16&theme=dark"/>
 </div>
-<h1>Tecnologias </h1>
+<h2>🚀💻 Technologies & Tools </h2>
 <div style="display: inline_block"><br>
   
   <img align="center" alt="Luiz-HTML" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" />
@@ -34,7 +35,7 @@ Here are some ideas to get you started:
   <img align="center" alt="Luiz-CSS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain.svg" />
   
 </div>
-  
+  <h2>Contado</h2>
   <div>
 
   
