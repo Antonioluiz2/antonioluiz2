@@ -41,4 +41,4 @@ Here are some ideas to get you started:
   
   <a href="https://www.linkedin.com/in/antonio-luiz-8a873799" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
 </div>
-< a href="https://github-readme-stats.vercel.app/api/top-langs/?username=antonioluiz2&theme=blue-green></a>
+< a href="https://github-readme-stats.vercel.app/api/top-langs/?username=antonioluiz2&theme=blue-green"></a>
