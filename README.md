@@ -1,6 +1,5 @@
 ### Hi there 👋 I'm AntonioLuiz2
 
-<!--
 **Antonioluiz2/antonioluiz2** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
