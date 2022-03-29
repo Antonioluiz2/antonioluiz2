@@ -7,7 +7,7 @@ Estou aprendendo no momento Kotlin e muitas outras coisas de Tecnologia
 ##
 <h2>⚡ GitHub Stats</h2>
 <div>
-  <a href="https://www.linkedin.com/in/antonio-luiz-8a873799/>
+  <a href="https://beacons.ai/Antonioluiz2>
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=antonioluiz2&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=antonioluiz2&layout=compact&langs_count=16&theme=dark"/>
 </div>
