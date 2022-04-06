@@ -32,6 +32,7 @@ Estou aprendendo no momento Kotlin e muitas outras coisas de Tecnologia
 
   
   <a href="https://www.linkedin.com/in/antonio-luiz-8a873799" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
-    ![Snake animation](https://github.com/AntonioLuiz2/AntonioLuiz2/blob/output/github-contribution-grid-snake.svg)
+   
+   ![Snake animation](https://github.com/Antonioluiz2/API-Projects/blob/main/snak.svg)
 </div>
 
