@@ -1,7 +1,7 @@
 ### Hi there 👋 I'm Antonio Luiz
 
 
-Desenvolvedor de back-end, amante de Java e Node, fã de Spring Boot e Kotlin, curioso em desempenho. Atualmente apaixonado por flutter e Programação Reativa.
+Desenvolvedor de back-end, amante de Java e Node, fã de Spring Boot e Kotlin, curioso em desempenho. Atualmente estudando Kotlin e Programação Reativa.
 
 Estou aprendendo no momento Kotlin e muitas outras coisas de Tecnologia
 ##
