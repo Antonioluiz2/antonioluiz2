@@ -1,7 +1,7 @@
 ### Hi there 👋 I'm Antonio Luiz
 
 
-Desenvolvedor FullStack, amante de Java , fã de Spring Boot e Kotlin, curioso em desempenho. Atualmente estudando Kotlin e Programação Reativa.
+Desenvolvedor FullStack, amante de Java e fã de Spring Boot , curioso em desempenho. Atualmente estudando Kotlin e Programação Reativa.
 
 Estou aprendendo no momento Kotlin e muitas outras coisas de Tecnologia
 ##
